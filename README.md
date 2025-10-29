@@ -1,4 +1,4 @@
-# Julius Baer SingHacks 2025 - Side Quest: "Vibe Code Revival"
+# Julius Baer SingHacks 2025 - Side Quest: Vibe Code Revival
 
 > **GenAI-Powered Legacy Banking Code Modernization** — Upgrade legacy banking functions with modern development practices using Generative AI tools
 
@@ -200,7 +200,7 @@ For **any one of the 2 legacy functions** (detailed above), submit:
 
 ## 🚀 Submission Steps for Hackers
 
-### Step 1: Repository Setup (5 minutes)
+### Step 1: Repository Setup
 ```bash
 # 1. Fork the official repository on GitHub
 # Go to: https://github.com/SingHacks-2025/julius-baer-side-quest
@@ -211,13 +211,13 @@ git clone https://github.com/YOUR_USERNAME/julius-baer-side-quest
 cd julius-baer-side-quest
 ```
 
-### Step 2: Choose Your Legacy Function (5 minutes)
+### Step 2: Choose Your Legacy Function
 - **Review both options** above (Python Account Balance or Java Loan Calculator)
 - **Select ONE function** that matches your skills and interests
 - **Understand the legacy code** and its specific issues
 - **Plan your modernization approach** using GenAI
 
-### Step 3: Document Your Process (10 minutes)
+### Step 3: Document Your Process
 Create a `REFACTORING_NOTES.md` file with:
 - At the very top, include this metadata block (required):
 ```
@@ -231,7 +231,7 @@ GitHub Username: <your_github>
 - **Performance improvements** achieved
 - **Security enhancements** implemented
 
-### Step 4: Submit Your Work (10 minutes)
+### Step 4: Submit Your Work
 ```bash
 # 1. Commit your changes
 git add .
