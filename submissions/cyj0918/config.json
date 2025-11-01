@@ -1,0 +1,18 @@
+{
+  "api": {
+    "baseUrl": "http://localhost:8123",
+    "timeout": 5000,
+    "retryAttempts": 3,
+    "retryDelay": 1000
+  },
+  "accounts": {
+    "validRange": ["ACC1000", "ACC1099"],
+    "invalidRange": ["ACC2000", "ACC2049"]
+  },
+  "features": {
+    "jwtAuth": true,
+    "inputValidation": true,
+    "errorLogging": true,
+    "connectionPooling": true
+  }
+}
